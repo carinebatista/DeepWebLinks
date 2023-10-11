@@ -11,3 +11,5 @@ Publeaks - http://eozjdgpnnmvcfn3drxtirjcn5c27ydkzqlzn4iptam54eewhji6qlqqd.onion
 DuckDuckGo - https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
 
 The Hidden Wiki - http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/
+
+BBC - https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/
